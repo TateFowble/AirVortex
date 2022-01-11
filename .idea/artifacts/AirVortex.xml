@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AirVortex">
+    <output-path>$PROJECT_DIR$/out/artifacts/AirVortex</output-path>
+    <root id="archive" name="AirVortex.jar">
+      <element id="module-output" name="AirVortex" />
+    </root>
+  </artifact>
+</component>
